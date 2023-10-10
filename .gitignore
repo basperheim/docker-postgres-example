@@ -2,7 +2,4 @@
 .DS_Store
 
 # Ignore everything inside /data/
-/data/*
-
-# Except this file
-!/data/.gitkeep
+/data
